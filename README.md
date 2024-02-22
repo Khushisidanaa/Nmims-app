@@ -27,13 +27,11 @@
 ## Quick Links
 
 > - [ Overview](#-overview)
-> -
-
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
 >   - [Running Nmims--App](#-running-Nmims--App)
 >   - [ Tests](#-tests)
-> - [ Demo](#-demo)
+> - [ Screenshots](#-Screenshots)
 
 ---
 
@@ -83,10 +81,11 @@ npm test
 
 ---
 
-## Project Roadmap
+## Screenshots
 
-- [x] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+![Alt text](/assets/fonts/11.png)
+![Alt text](/assets/fonts/12.png)
+![Alt text](/assets/fonts/13.png)
+![Alt text](/assets/fonts/14.png)
 
 ---
